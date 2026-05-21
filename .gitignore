@@ -1,0 +1,11 @@
+# ===== Ignored =====
+.claude/
+archive/
+image/
+temp/
+*.md
+
+# ===== Tracked (intentionally NOT ignored) =====
+# dataset/        -> tracked
+# *.pbix          -> tracked
+!/Portfolio.md   # exception: track this one md file
