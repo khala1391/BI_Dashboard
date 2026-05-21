@@ -8,4 +8,4 @@ temp/
 # ===== Tracked (intentionally NOT ignored) =====
 # dataset/        -> tracked
 # *.pbix          -> tracked
-!/Portfolio.md   # exception: track this one md file
+!/README.md
