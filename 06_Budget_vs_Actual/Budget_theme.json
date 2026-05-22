@@ -1,0 +1,21 @@
+{
+  "name": "IT Budget vs Actual",
+  "dataColors": ["#72BAA9", "#D5E7B5", "#9E9E9E", "#3D3D3D", "#4E9E9A", "#A8D8D1"],
+  "background": "#D5E7B5",
+  "foreground": "#3D3D3D",
+  "tableAccent": "#72BAA9",
+  "good": "#72BAA9",
+  "neutral": "#9E9E9E",
+  "bad": "#934761",
+  "maximum": "#72BAA9",
+  "center": "#D5E7B5",
+  "minimum": "#934761",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#D5E7B5" } } }]
+      }
+    }
+  }
+}

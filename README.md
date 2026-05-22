@@ -11,7 +11,7 @@
 | 03 | [Coffee](03_Coffee/) | วิเคราะห์ยอดขายร้านกาแฟ | [View](https://app.powerbi.com/view?r=eyJrIjoiMTBiMThlNDQtMjQ2NS00MWM4LWJmMzYtNDMwZmYwYWVjOThkIiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D) |
 | 04 | [SuperStore](04_SuperStore/) | วิเคราะห์ยอดขายและกำไรร้านค้าปลีก | [View](https://app.powerbi.com/view?r=eyJrIjoiZjg0MDY0OGItZmQ1My00OWRjLTg1NjEtYzlhMGQyZDJhNjAwIiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D) |
 | 05 | [Foods_Beverages](05_Foods_Beverages/) | วิเคราะห์ยอดขาย Foods & Beverages | |
-| 06 | [Budget_vs_Actual](06_Budget_vs_Actual/) | วิเคราะห์ Budget vs. Actual Spending | |
+| 06 | [Budget_vs_Actual](06_Budget_vs_Actual/) | วิเคราะห์ Budget vs. Actual Spending |[View](https://app.powerbi.com/view?r=eyJrIjoiYzgwOGViYjEtNDlkOS00YjdmLWE4ZmQtOThlODk3YzAxNDE3IiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D) |
 | 07 | [HR_Attrition](07_HR_Attrition/) | วิเคราะห์การลาออกพนักงาน (HR Attrition) | |
 | 08 | [Ecommerce_SuperStore](08_Ecommerce_SuperStore/) | วิเคราะห์ยอดขาย E-commerce Super Store | |
 | 09 | [Medical_Records](09_Medical_Records/) | Patient Summary และ Medical Records | |
