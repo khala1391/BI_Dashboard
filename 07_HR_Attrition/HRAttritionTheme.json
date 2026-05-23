@@ -1,0 +1,18 @@
+{
+  "name": "HR Attrition",
+  "dataColors": ["#8CC0EB", "#BFDDF0", "#E87878", "#72B494", "#FFEBCC", "#9E9E9E"],
+  "background": "#FFF9D2",
+  "foreground": "#3D3D3D",
+  "tableAccent": "#8CC0EB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#FFEBCC"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#FFFFFF"}},
+                   "background": {"solid": {"color": "#8CC0EB"}}}],
+        "labels": [{"color": {"solid": {"color": "#3D3D3D"}}}],
+        "gridline": [{"color": {"solid": {"color": "#BFDDF0"}}}]
+      }
+    }
+  }
+}

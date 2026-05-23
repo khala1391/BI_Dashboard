@@ -1,0 +1,18 @@
+{
+  "name": "Foods & Beverages",
+  "dataColors": ["#5B7E3C","#FF9D23","#FFD65A","#EA5252","#F7F4EC","#E0E0E0"],
+  "background": "#FFFFFF",
+  "foreground": "#3D3D3D",
+  "tableAccent": "#5B7E3C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "title": [{"fontColor": {"solid": {"color": "#FFFFFF"}},
+                   "background": {"solid": {"color": "#5B7E3C"}}}],
+        "labels": [{"color": {"solid": {"color": "#3D3D3D"}}}],
+        "gridline": [{"color": {"solid": {"color": "#E0E0E0"}}}]
+      }
+    }
+  }
+}
